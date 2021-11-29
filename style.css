@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: midnightblue;
+
+  text-align: center;
+}
+h2 {
+  color: whitesmoke;
+  background-color: midnightblue;
+  padding: 20px;
+  border: 10px solid mintcream;
+  margin: 30px;
+  text-align: center;
+}
+
+a {
+  color: rgb(58, 119, 143);
+}
+
+div {
+  color: rgb(255, 255, 255);
+  background-color: midnightblue;
+  padding: 30px;
+  border: 10px solid mintcream;
+  margin: 40px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.button1 {
+  padding: 6px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+.button2 {
+  padding: 6px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+.button3 {
+  padding: 6px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+.button4 {
+  padding: 6px;
+  border-radius: 10px;
+  font-size: 15px;
+}
